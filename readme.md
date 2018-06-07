@@ -12,20 +12,19 @@ _UI - Week 2: Web Design Process_
 ## Description
 
 _Mock e-commerce site for [GunStreet Goods](https://www.facebook.com/Gunstreet-Goods-967820216586146/)_
-<div style="text-align:center"><img src="./img/dawn-gg.jpg" alt="me, dawn, in GunStreet tunic" width="500"></div>
+<div style="text-align:center"><img src="./img/dawn-gg.jpg" alt="me, dawn, in GunStreet tunic" width="300"></div>
 
 <br>
 
 ## Specs
 _Check out info.md for additional planning information_
-<div style="text-align:center"><img src="./img/gunstreet-mainpage.png" alt="me, dawn, in GunStreet tunic" width="300"></div>
+<div style="text-align:center"><img src="./img/gunstreet-mainpage.png" alt="me, dawn, in GunStreet tunic" width="300"> <img src="./img/whoworeitbest.jpg" alt="who wore it best, madden the dog or Keri the business owner" width="300"></div>
 
 ## Setup/Installation Requirements
 * Clone this repository
 * Buy some awesome vintage
 * Wear said vintage
 
-<div style="text-align:center"><img src="./img/whoworeitbest.jpg" alt="Beyonce 711 video still, namaste" width="300"></div>
 
 ## Known Bugs
 
