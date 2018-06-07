@@ -4,29 +4,28 @@
 # _Gunstreet Goods_
 
 #### _Mock-up E-commerce Site_
+_UI - Week 3: SASS_
 _UI - Week 2: Web Design Process_
 
-#### **Dawn Mott** :sunrise_over_mountains: _May 29th, 2018_
+#### **Dawn Mott** :sunrise_over_mountains: _June 7th, 2018_
 
 ## Description
 
-_This app is a mock e-commerce site for  [GunStreet Goods](https://www.facebook.com/Gunstreet-Goods-967820216586146/)_
+_Mock e-commerce site for [GunStreet Goods](https://www.facebook.com/Gunstreet-Goods-967820216586146/)_
 <div style="text-align:center"><img src="./img/dawn-gg.jpg" alt="me, dawn, in GunStreet tunic" width="500"></div>
 
 <br>
 
 ## Specs
 _Check out info.md for additional planning information_
-<div style="text-align:center"><img src="./img/gunstreet-mainpage.png" alt="me, dawn, in GunStreet tunic" width="500"></div>
+<div style="text-align:center"><img src="./img/gunstreet-mainpage.png" alt="me, dawn, in GunStreet tunic" width="300"></div>
 
 ## Setup/Installation Requirements
-
 * Clone this repository
 * Buy some awesome vintage
 * Wear said vintage
 
-
-<div style="text-align:center"><img src="./img/whoworeitbest.jpg" alt="Beyonce 711 video still, namaste" width="500"></div>
+<div style="text-align:center"><img src="./img/whoworeitbest.jpg" alt="Beyonce 711 video still, namaste" width="300"></div>
 
 ## Known Bugs
 
